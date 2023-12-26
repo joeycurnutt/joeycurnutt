@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeycurnutt
 - 👀 I’m interested in Neural Networks and things of this sort
-- 🌱 I’m currently learning many things! Including reinforcement learning and Unity.
+- 🌱 I’m currently learning many things! Including reinforcement learning and Unreal Engine.
 - 💞️ I’m looking to collaborate on nothing as of now.
 - Member of 6210M Meta Mafia, Heritage Christian Robotics (Formerly 6210K Kryptoknights)
 
