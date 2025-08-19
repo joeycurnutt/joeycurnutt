@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @joeycurnutt
-- 👀 I’m interested in Neural Networks and things of this sort
-- 🌱 I’m currently learning many things! Including reinforcement learning and Unreal Engine.
-- 💞️ I’m looking to collaborate on nothing as of now.
-- Member of 6210M Meta Mafia, Heritage Christian Robotics (Formerly 6210K Kryptoknights)
+- 👀 I’m interested in new developments in AI and software solutions for the creative industry.
+- 🌱 I’m currently learning Java and how to cater solutions to clients.
 
 <!---
 joeycurnutt/joeycurnutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
